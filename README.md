@@ -1,0 +1,3 @@
+# OptiGaussPy
+
+[](img/pulso.gif)

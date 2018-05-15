@@ -1,0 +1,6 @@
+numpy==1.14.2
+scipy==1.0.1  
+matplotlib==2.2.2 
+ipywidgets==7.2.1 
+widgetsnbextension==3.2.1 
+pint==0.8.1
