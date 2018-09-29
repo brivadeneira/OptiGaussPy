@@ -1,7 +1,7 @@
 dependencies:
-	- numpy
-	- scipy 
-	- matplotlib
-	- ipywidgets
-	- widgetsnbextension
-	- pint
+- numpy
+- scipy 
+- matplotlib
+- ipywidgets
+- widgetsnbextension
+- pint
